@@ -187,3 +187,14 @@ npm start
 4. **User completes payment** → Redirected to success page
 5. **Webhook processes event** → Updates database with subscription status
 6. **User can check status** → Via dashboard page with email lookup
+
+## Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/72610a3e-e795-41b9-9b01-440feb1e66cd" />
+<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/debe44f7-e88c-4a2d-ad82-c67ac02e4941" />
+<img width="1920" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/2da07b34-b3bf-40f7-81e3-52d685ce507f" />
+<img width="1920" height="1080" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/46e0b2f7-ea67-4b28-ba3c-54a20488c9a5" />
+<img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/0d06c700-11a9-4501-bebf-e496a5d4423d" />
+<img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/21d12f67-0924-405a-a818-652448e9a0b5" />
+<img width="1920" height="1080" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/777a00bb-a1a4-4581-a472-b19583ff8ad1" />
+
