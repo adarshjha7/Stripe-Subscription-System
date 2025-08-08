@@ -2,6 +2,10 @@
 
 A Full-Stack subscription system built with React, Express, Stripe, and SQLite. Features an application for subscription plans with secure payment processing.
 
+## Video walkthrough
+
+**https://www.loom.com/share/2053f8f94d4841479a59241cc2653850?sid=bd2cea46-f423-47a9-8f0c-ceb6335b7f4d**
+
 ## 🚀 Features
 
 * **Modern React Frontend** with TypeScript and Tailwind CSS
