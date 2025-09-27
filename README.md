@@ -4,7 +4,7 @@ A Full-Stack subscription system built with React, Express, Stripe, and SQLite. 
 
 ## Video walkthrough
 
-**https://www.loom.com/share/2053f8f94d4841479a59241cc2653850?sid=bd2cea46-f423-47a9-8f0c-ceb6335b7f4d**
+**https://www.loom.com/share/3bb83283fdf44b5b8140d384b13284c5?sid=a9ab6439-6977-4b5f-b4aa-da7a0732bceb**
 
 ## 🚀 Features
 
